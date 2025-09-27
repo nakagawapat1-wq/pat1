@@ -1,0 +1,5 @@
+﻿{
+  "name": "Someone",
+  "age": 30,
+  "language": "Japanese"
+}
